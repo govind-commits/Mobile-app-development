@@ -414,12 +414,10 @@ h1.largerTextSize{
         display: none;
       }
       }
-      
-   @media (max-width: 900px){
-      .dot-section{
-       
-      }
-      }
+   
+
+     
+  
 
      
 
@@ -461,8 +459,9 @@ h1.largerTextSize{
       .step {
         position: static;
         transform: none;
-        margin-bottom: 2rem;
+        margin-top: 2rem;
         font-size: xx-large;
+        
         
       }
     }
